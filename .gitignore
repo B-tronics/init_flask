@@ -1,0 +1,14 @@
+# virtualenv
+.venv/
+
+#cache
+__pycache__/
+
+# setup files
+*.egg-info/
+
+# vscode
+.vscode/
+
+# binaries
+*.pyc
